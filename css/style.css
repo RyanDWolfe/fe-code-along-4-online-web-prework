@@ -114,3 +114,9 @@ background: #ccc;
 .first {
   left-margin: 0%;
 }
+/* SECTIONS */
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
