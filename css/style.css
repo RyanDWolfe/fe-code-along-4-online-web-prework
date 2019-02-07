@@ -98,3 +98,7 @@ background: #ccc;
 [class*="col-"] {
   margin-left: 2%;
 }
+
+.first {
+  left-margin: 0%;
+}
